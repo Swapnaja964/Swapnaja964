@@ -18,47 +18,40 @@
 ---
 
 ## 🚀 About Me  
-<div align="center">
 
-🔭 Working on **Tiffin Management System**  
-🌱 Learning **Next.js & DevOps**  
-💬 Ask me about **Node.js | Express | PostgreSQL | React**  
+🎓 I’m **Swapnaja Magarde**, a Computer Science Engineering student (AI & Data Science) at **MIT-WPU, Pune**  
+- 🌱 Learning **DevOps**  
+- 🤖 Passionate about **AI, ML, NLP, and Computer Vision** with hands-on projects
+- 📊 Skilled in **Data Science & Visualization** (Power BI, Tableau, R)
+- 💻 Experienced in **Web Development (MERN, PostgreSQL, Knex, Firebase, ClickHouse, MongoDB)**
+
 ⚡ Fun fact: I love automating boring stuff 🤖  
-
-</div>
-
----
-
-## 🌐 Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR_PROFILE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
 
 ---
 
 ## 🛠️ Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,react,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,npm,postgres,mysql,mongodb,python,r,tensorflow,opencv,java,c,aws,git,github,docker,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnaja&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnaja&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnaja964&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnaja964&layout=compact&theme=radical" height="180" />
 </div>
+
 
 ---
 
 ## 🔥 Streaks & Trophies  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=swapnaja&theme=radical&border_radius=8" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Swapnaja964&theme=radical&border_radius=8" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swapnaja&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Swapnaja964&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -70,24 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnaja&show_icons=true&theme=radical" alt="stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnaja&layout=compact&theme=radical" alt="langs" height="170" />
-</p>
-
----
-
-## 🔥 Streaks & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swapnaja&theme=radical&border_radius=8" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swapnaja&theme=radical&no-frame=true&margin-w=10" alt="trophies" />
-</p>
-
----
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
