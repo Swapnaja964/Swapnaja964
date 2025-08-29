@@ -45,14 +45,10 @@
 
 ---
 
-## 🔥 Streaks & Trophies  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Swapnaja964&theme=radical&border_radius=8" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swapnaja964&theme=radical&no-frame=true&row=1&column=6" />
-</div>
+## 🔥 Streaks  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Swapnaja964&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
