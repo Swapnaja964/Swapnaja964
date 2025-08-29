@@ -70,16 +70,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=swapnaja&label=Profile%20views&color=blue&style=flat-square" alt="views"/>
-</div>
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swapnaja&show_icons=true&theme=radical" alt="stats" height="170" />
@@ -98,12 +88,7 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-![GitHub Snake](https://github.com/Swapnaja964/Swapnaja964/blob/output/snake.svg)
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=swapnaja&label=Profile%20views&color=blue&style=flat" alt="views" /> 
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
