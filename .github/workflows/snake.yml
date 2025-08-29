@@ -11,14 +11,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: swapnaja
           outputs: dist/snake.svg
 
-      - name: Push Snake Animation
+      - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
