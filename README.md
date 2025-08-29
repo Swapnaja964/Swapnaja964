@@ -65,7 +65,7 @@
 
 ## 🐍 Contribution Snake  
 <div align="center">
-  <img src="https://github.com/swapnaja/swapnaja/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Swapnaja964/Swapnaja964/blob/output/snake.svg" alt="snake animation"/>
 </div>
 
 ---
@@ -100,7 +100,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/swapnaja/swapnaja/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Swapnaja964/Swapnaja964/blob/output/snake.svg)
 
 ---
 
