@@ -18,10 +18,10 @@ jobs:
           github_user_name: swapnaja
           outputs: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output   # this creates/updates the "output" branch
+          build_dir: dist         # this folder contains snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
