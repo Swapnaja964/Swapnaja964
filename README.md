@@ -63,6 +63,11 @@
 
 ---
 
+## 📈 Contribution Graph
+![Swapnaja's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnaja964&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
+---
+
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
